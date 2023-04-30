@@ -1,3 +1,14 @@
+- title: SCF
+  year: 2023
+  id: scf23
+  link: http://scf.acm.org/2023/submissions.html
+  deadline: '2023-07-21 23:59:59'
+  timezone: UTC-12
+  place: New York, New York, USA
+  date: October, 8-10, 2023
+  start: 2023-10-08
+  end: 2023-10-10
+
 - title: CHI
   year: 2023
   id: chi23
